@@ -1,0 +1,23 @@
+meta {
+  name: Update Purchase
+  type: http
+  seq: 10
+}
+
+put {
+  url: http://localhost:5000/api/purchases/6637b75d8a525dd6d7a07ef3
+  body: json
+  auth: none
+}
+
+headers {
+  Authorization: JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGV4YW1wbGUuY29tIiwidXNlcklkIjoiNjYzM2FlZWUyMmQ4ZTg3NDI0MzczM2E4IiwiaWF0IjoxNzE0OTI3NTAzLCJleHAiOjE3MTUwMTM5MDN9.n8z5tJFE8aM69Kx7Q1wKjpVHmmr2jYmH5mhdIZenRGQ
+}
+
+body:json {
+  {
+    "name": "USB-C Hub Adapter",
+    "price": "199000",
+    "quantity": "1"
+  }
+}

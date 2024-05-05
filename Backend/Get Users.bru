@@ -1,0 +1,22 @@
+meta {
+  name: Get Users
+  type: http
+  seq: 3
+}
+
+get {
+  url: http://localhost:5000/api/users?page_size=5&page_number=1&search=email:gmail&sort=name:asc
+  body: json
+  auth: none
+}
+
+query {
+  page_size: 5
+  page_number: 1
+  search: email:gmail
+  sort: name:asc
+}
+
+headers {
+  Authorization: JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGV4YW1wbGUuY29tIiwidXNlcklkIjoiNjYzM2FlZWUyMmQ4ZTg3NDI0MzczM2E4IiwiaWF0IjoxNzE0OTI5MTg1LCJleHAiOjE3MTUwMTU1ODV9.fXO5D8cETPdlWFZXXYlIJm8-PatR90o5WNFm9bP-V3A
+}

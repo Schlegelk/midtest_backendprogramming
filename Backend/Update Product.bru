@@ -1,0 +1,25 @@
+meta {
+  name: Update Product
+  type: http
+  seq: 6
+}
+
+put {
+  url: http://localhost:5000/api/products/66378746a20e5db48170b022
+  body: json
+  auth: none
+}
+
+headers {
+  Authorization: JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGV4YW1wbGUuY29tIiwidXNlcklkIjoiNjYzM2FlZWUyMmQ4ZTg3NDI0MzczM2E4IiwiaWF0IjoxNzE0OTExMjcxLCJleHAiOjE3MTQ5OTc2NzF9.Sut1OymOFMLt-ceCEOWZBu4Wt9fZ0SlXc5AU1Ld6f2I
+}
+
+body:json {
+  {
+    "name": "USB-C Hub Adapter",
+    "description": "Multi-port hub adapter",
+    "price": "199000",
+    "quantity": "100",
+    "category": "electronics"
+  }
+}

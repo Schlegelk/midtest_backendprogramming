@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Bluetooth Wireless Earbuds",
+    "description": "High-quality sound with noise cancellation",
+    "price": "699000",
+    "quantity": "100",
+    "category": "electronics"
+  },
+  {
+    "name": "Organic Green Tea",
+    "description": "Refreshing and antioxidant-rich",
+    "price": "99000",
+    "quantity": "200",
+    "category": "groceries"
+  },
+  {
+    "name": "Leather Wallet",
+    "description": "Handcrafted genuine leather wallet with RFID protection",
+    "price": "449000",
+    "quantity": "50",
+    "category": "fashion accessories"
+  },
+  {
+    "name": "Portable Power Bank",
+    "description": "Charge your devices on the go",
+    "price": "349000",
+    "quantity": "150",
+    "category": "electronics"
+  },
+  {
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated bottle to keep your drinks hot or cold",
+    "price": "249000",
+    "quantity": "120",
+    "category": "home & kitchen"
+  },
+  {
+    "name": "Yoga Mat",
+    "description": "Non-slip and eco-friendly yoga mat",
+    "price": "399000",
+    "quantity": "80",
+    "category": "sports & fitness"
+  },
+  {
+    "name": "Aromatherapy Essential Oil Diffuser",
+    "description": "Create a relaxing atmosphere with essential oils",
+    "price": "499000",
+    "quantity": "70",
+    "category": "home & kitchen"
+  },
+  {
+    "name": "Durable Laptop Backpack",
+    "description": "Water-resistant backpack with multiple compartments",
+    "price": "599000",
+    "quantity": "90",
+    "category": "bags & luggage"
+  },
+  {
+    "name": "Bamboo Cutting Board Set",
+    "description": "Set of three cutting boards in different sizes",
+    "price": "329000",
+    "quantity": "100",
+    "category": "home & kitchen"
+  },
+  {
+    "name": "Graphic T-Shirt",
+    "description": "Soft and breathable cotton t-shirt with unique print",
+    "price": "199000",
+    "quantity": "120",
+    "category": "fashion apparel"
+  },
+  {
+    "name": "Ceramic Coffee Mug",
+    "description": "Microwave and dishwasher safe mug with a cute design",
+    "price": "149000",
+    "quantity": "150",
+    "category": "home & kitchen"
+  },
+  {
+    "name": "Resistance Bands Set",
+    "description": "Five different resistance levels for versatile workouts",
+    "price": "249000",
+    "quantity": "50",
+    "category": "sports & fitness"
+  },
+  {
+    "name": "Smartphone Ring Holder",
+    "description": "Secure grip for your phone and doubles as a stand",
+    "price": "99000",
+    "quantity": "200",
+    "category": "electronics"
+  },
+  {
+    "name": "Handheld Milk Frother",
+    "description": "Easily froth milk for your coffee or cappuccino",
+    "price": "179000",
+    "quantity": "100",
+    "category": "home & kitchen"
+  },
+  {
+    "name": "Non-Stick Silicone Baking Mat",
+    "description": "Resuable mat for easy baking and cleanup",
+    "price": "129000",
+    "quantity": "120",
+    "category": "home & kitchen"
+  },
+  {
+    "name": "Cat Toy Set",
+    "description": "Variety pack of toys to entertain your cat",
+    "price": "239000",
+    "quantity": "80",
+    "category": "pet supplies"
+  },
+  {
+    "name": "Stainless Steel Mixing Bowls Set",
+    "description": "Durable bowls for mixing ingredients",
+    "price": "449000",
+    "quantity": "70",
+    "category": "home & kitchen"
+  },
+  {
+    "name": "Fitness Tracker Watch",
+    "description": "Track your steps, heart rate, and sleep quality",
+    "price": "599000",
+    "quantity": "60",
+    "category": "electronics"
+  },
+  {
+    "name": "Reusable Grocery Bags Set",
+    "description": "Set of five durable bags for eco-friendly shopping",
+    "price": "299000",
+    "quantity": "100",
+    "category": "groceries"
+  },
+  {
+    "name": "Pet Carrier Backpack",
+    "description": "Comfortable and breathable backpack carrier for small pets",
+    "price": "349000",
+    "quantity": "70",
+    "category": "pet supplies"
+  },
+  {
+    "name": "Automatic Pet Feeder",
+    "description": "Programmable feeder for cats and dogs",
+    "price": "599000",
+    "quantity": "90",
+    "category": "pet supplies"
+  },
+  {
+    "name": "Adjustable Dumbbell Set",
+    "description": "Set of adjustable dumbbles with varius weight options",
+    "price": "799000",
+    "quantity": "60",
+    "category": "sports & fitness"
+  },
+  {
+    "name": "Jump Rope with Counter",
+    "description": "Adjustable jump rope with counter",
+    "price": "79000",
+    "quantity": "150",
+    "category": "sports & fitness"
+  },
+  {
+    "name": "USB-C Hub Adapter",
+    "description": "Multi-port hub adapter",
+    "price": "199000",
+    "quantity": "90",
+    "category": "electronics"
+  },
+  {
+    "name": "Gaming Mouse with RGB Lighting",
+    "description": "High-precision gaming mouse with customizable RGB lighting",
+    "price": "249000",
+    "quantity": "150",
+    "category": "electronics"
+  },
+  {
+    "name": "Portable Bluetooth Speaker",
+    "description": "Compact speaker with deep bass and long battery life",
+    "price": "299000",
+    "quantity": "80",
+    "category": "electronics"
+  }
+]
